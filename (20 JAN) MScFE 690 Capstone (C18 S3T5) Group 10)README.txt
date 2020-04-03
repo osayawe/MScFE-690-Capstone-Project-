@@ -1,6 +1,6 @@
 - Author:(20/01) MScFE 690 Capstone (C18-S3T5)   Ernest Osifo
 - Email: osifo.e@gmail.com
-- Date: 17 March 2020 
+- Date: 4 April 2020 
 PROJECT: CRYPTOCURRENCY TRADING-PAIR FORECASTING, USING MACHINE LEARNING AND DEEP LEARNING TECHNIQUE
 Version of Python: 3.6.5
 ## Description
